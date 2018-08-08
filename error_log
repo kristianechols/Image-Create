@@ -1,0 +1,240 @@
+[01-Feb-2012 08:54:17] PHP Parse error:  syntax error, unexpected '/' in /home2/alphatog/public_html/engine/imagecreate/selection6.php on line 128
+[01-Feb-2012 20:10:59] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 17
+[01-Feb-2012 20:11:22] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 17
+[01-Feb-2012 20:11:48] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 17
+[01-Feb-2012 20:12:42] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 17
+[01-Feb-2012 20:14:01] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 17
+[01-Feb-2012 20:15:11] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 17
+[01-Feb-2012 20:15:24] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 17
+[01-Feb-2012 20:16:44] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 17
+[01-Feb-2012 20:17:42] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 17
+[01-Feb-2012 20:32:01] PHP Parse error:  syntax error, unexpected '/' in /home2/alphatog/public_html/engine/imagecreate/selection6.php on line 128
+[01-Feb-2012 22:39:43] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 149
+[01-Feb-2012 22:40:02] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 149
+[01-Feb-2012 22:41:19] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 149
+[01-Feb-2012 22:41:52] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 149
+[01-Feb-2012 22:42:10] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 149
+[01-Feb-2012 22:42:53] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 148
+[01-Feb-2012 22:44:28] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 148
+[01-Feb-2012 22:45:08] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 148
+[01-Feb-2012 22:45:19] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 148
+[01-Feb-2012 22:46:25] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 148
+[01-Feb-2012 22:47:30] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 148
+[01-Feb-2012 23:35:58] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 65
+[01-Feb-2012 23:36:58] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 61
+[01-Feb-2012 23:37:07] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 61
+[02-Feb-2012 11:47:20] PHP Parse error:  syntax error, unexpected '/' in /home2/alphatog/public_html/engine/imagecreate/selection6.php on line 128
+[02-Feb-2012 16:40:49] PHP Parse error:  syntax error, unexpected T_INCLUDE, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 16:41:13] PHP Parse error:  syntax error, unexpected T_INCLUDE, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 16:41:49] PHP Parse error:  syntax error, unexpected T_INCLUDE, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 17:49:29] PHP Warning:  include(/engine/letters/b.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 82
+[02-Feb-2012 17:49:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/engine/letters/b.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 82
+[02-Feb-2012 17:52:31] PHP Parse error:  syntax error, unexpected T_INCLUDE, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 82
+[02-Feb-2012 17:52:58] PHP Parse error:  syntax error, unexpected T_INCLUDE, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 82
+[02-Feb-2012 17:56:44] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 86
+[02-Feb-2012 17:56:54] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 86
+[02-Feb-2012 18:02:21] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 80
+[02-Feb-2012 18:19:47] PHP Warning:  include(engine/letters/b.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 85
+[02-Feb-2012 18:19:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'engine/letters/b.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 85
+[02-Feb-2012 18:20:39] PHP Warning:  include(/engine/letters/b.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 85
+[02-Feb-2012 18:20:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/engine/letters/b.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 85
+[02-Feb-2012 18:21:12] PHP Warning:  include(engine/letters/b.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 85
+[02-Feb-2012 18:21:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'engine/letters/b.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 85
+[02-Feb-2012 18:21:48] PHP Warning:  include(/letters/b.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 85
+[02-Feb-2012 18:21:48] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/letters/b.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 85
+[02-Feb-2012 18:23:23] PHP Warning:  include(/letters/b.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 85
+[02-Feb-2012 18:23:23] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/letters/b.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 85
+[02-Feb-2012 19:19:24] PHP Warning:  include(/engine/letters/b.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 19:19:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/engine/letters/b.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 19:20:20] PHP Warning:  include(/engine/letters/b.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 19:20:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/engine/letters/b.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 19:24:48] PHP Warning:  include(/engine/letters/b.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 19:24:48] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/engine/letters/b.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 19:25:45] PHP Warning:  include(/letters/b.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 19:25:45] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/letters/b.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 19:26:51] PHP Warning:  include(/letters/b.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[02-Feb-2012 19:26:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/letters/b.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection5.php on line 81
+[03-Feb-2012 12:06:32] PHP Parse error:  syntax error, unexpected '/' in /home2/alphatog/public_html/engine/imagecreate/selection6.php on line 128
+[03-Feb-2012 12:06:42] PHP Parse error:  syntax error, unexpected '/' in /home2/alphatog/public_html/engine/imagecreate/selection6.php on line 128
+[03-Feb-2012 12:07:07] PHP Parse error:  syntax error, unexpected '/' in /home2/alphatog/public_html/engine/imagecreate/selection4.php on line 76
+[03-Feb-2012 14:39:08] PHP Parse error:  syntax error, unexpected '/' in /home2/alphatog/public_html/engine/imagecreate/selection6.php on line 128
+[03-Feb-2012 14:39:32] PHP Parse error:  syntax error, unexpected '/' in /home2/alphatog/public_html/engine/imagecreate/selection6.php on line 128
+[04-Feb-2012 14:45:47] PHP Parse error:  syntax error, unexpected '/' in /home2/alphatog/public_html/engine/imagecreate/selection4.php on line 76
+[04-Feb-2012 14:45:54] PHP Parse error:  syntax error, unexpected '/' in /home2/alphatog/public_html/engine/imagecreate/selection4.php on line 76
+[10-Feb-2012 10:54:37] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 32
+[10-Feb-2012 13:19:39] PHP Parse error:  syntax error, unexpected $end in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 418
+[10-Feb-2012 13:23:27] PHP Parse error:  syntax error, unexpected $end in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 471
+[10-Feb-2012 13:29:35] PHP Parse error:  syntax error, unexpected $end in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 48
+[10-Feb-2012 14:06:05] PHP Parse error:  syntax error, unexpected $end in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 448
+[10-Feb-2012 15:10:00] PHP Parse error:  syntax error, unexpected T_STRING in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 53
+[10-Feb-2012 15:10:06] PHP Parse error:  syntax error, unexpected T_STRING in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 53
+[10-Feb-2012 15:12:05] PHP Parse error:  syntax error, unexpected T_STRING in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 53
+[10-Feb-2012 15:13:11] PHP Parse error:  syntax error, unexpected T_STRING in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 53
+[10-Feb-2012 15:25:50] PHP Parse error:  syntax error, unexpected '}' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 45
+[10-Feb-2012 15:25:59] PHP Parse error:  syntax error, unexpected '}' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 45
+[10-Feb-2012 15:26:29] PHP Warning:  include(/engine/imagecreate/a.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 45
+[10-Feb-2012 15:26:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/engine/imagecreate/a.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 45
+[10-Feb-2012 15:26:44] PHP Warning:  include(/engine/imagecreate/a.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 45
+[10-Feb-2012 15:26:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/engine/imagecreate/a.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 45
+[10-Feb-2012 15:27:54] PHP Warning:  include(/engine/imagecreate/a.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 45
+[10-Feb-2012 15:27:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/engine/imagecreate/a.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 45
+[10-Feb-2012 19:40:00] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 563
+[10-Feb-2012 21:44:21] PHP Parse error:  syntax error, unexpected $end in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 891
+[10-Feb-2012 21:44:31] PHP Parse error:  syntax error, unexpected $end in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 891
+[10-Feb-2012 23:07:11] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 52
+[10-Feb-2012 23:07:16] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 52
+[10-Feb-2012 23:13:41] PHP Parse error:  syntax error, unexpected $end in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 904
+[10-Feb-2012 23:13:45] PHP Parse error:  syntax error, unexpected $end in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 904
+[11-Feb-2012 08:48:30] PHP Parse error:  syntax error, unexpected $end in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 174
+[11-Feb-2012 09:51:49] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/a.php on line 14
+[11-Feb-2012 10:03:06] PHP Warning:  include(a.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[11-Feb-2012 10:03:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'a.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[11-Feb-2012 10:05:17] PHP Warning:  include(a.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[11-Feb-2012 10:05:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'a.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[11-Feb-2012 10:06:17] PHP Warning:  include(a.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[11-Feb-2012 10:06:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'a.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[11-Feb-2012 10:13:06] PHP Warning:  include(/engine/a.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[11-Feb-2012 10:13:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/engine/a.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[11-Feb-2012 10:51:16] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 572
+[11-Feb-2012 11:11:33] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 62
+[11-Feb-2012 11:13:09] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 58
+[11-Feb-2012 11:14:41] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 65
+[11-Feb-2012 11:15:40] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 62
+[11-Feb-2012 11:16:47] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 62
+[13-Feb-2012 01:32:17] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 01:32:29] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 02:02:10] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 69
+[13-Feb-2012 03:00:48] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 41
+[13-Feb-2012 03:03:56] PHP Parse error:  syntax error, unexpected '}' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 311
+[13-Feb-2012 03:30:34] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 03:39:28] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 03:41:14] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 42
+[13-Feb-2012 03:41:35] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 42
+[13-Feb-2012 03:42:03] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 42
+[13-Feb-2012 04:02:10] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 50
+[13-Feb-2012 04:04:19] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 42
+[13-Feb-2012 04:08:05] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 46
+[13-Feb-2012 04:08:44] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 50
+[13-Feb-2012 04:12:12] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 50
+[13-Feb-2012 04:32:22] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 50
+[13-Feb-2012 04:39:12] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 50
+[13-Feb-2012 05:00:49] PHP Fatal error:  Can't use function return value in write context in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:00:58] PHP Fatal error:  Can't use function return value in write context in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:02:07] PHP Fatal error:  Can't use function return value in write context in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:02:42] PHP Fatal error:  Can't use function return value in write context in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:13:15] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 51
+[13-Feb-2012 05:14:17] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 52
+[13-Feb-2012 05:14:23] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 52
+[13-Feb-2012 05:21:24] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 52
+[13-Feb-2012 05:23:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 52
+[13-Feb-2012 05:25:39] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 51
+[13-Feb-2012 05:26:13] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 51
+[13-Feb-2012 05:26:42] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 05:28:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 05:29:06] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 39
+[13-Feb-2012 05:30:58] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 47
+[13-Feb-2012 05:49:05] PHP Parse error:  syntax error, unexpected T_ECHO in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:50:07] PHP Parse error:  syntax error, unexpected T_ECHO in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:52:09] PHP Parse error:  syntax error, unexpected T_ECHO in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:52:19] PHP Parse error:  syntax error, unexpected T_ECHO in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:52:25] PHP Parse error:  syntax error, unexpected T_ECHO in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:53:46] PHP Parse error:  syntax error, unexpected T_ECHO in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:54:20] PHP Parse error:  syntax error, unexpected T_ECHO in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:55:00] PHP Parse error:  syntax error, unexpected T_ECHO in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 37
+[13-Feb-2012 05:57:49] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 46
+[13-Feb-2012 05:58:52] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 47
+[13-Feb-2012 05:59:54] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 47
+[13-Feb-2012 06:00:11] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 47
+[13-Feb-2012 06:00:11] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 47
+[13-Feb-2012 06:00:11] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 47
+[13-Feb-2012 06:00:11] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 47
+[13-Feb-2012 06:00:12] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 47
+[13-Feb-2012 06:00:30] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 47
+[13-Feb-2012 06:01:33] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 47
+[13-Feb-2012 06:08:44] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 48
+[13-Feb-2012 06:10:29] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 48
+[13-Feb-2012 06:28:11] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 55
+[13-Feb-2012 06:29:05] PHP Parse error:  syntax error, unexpected '<' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 55
+[13-Feb-2012 06:59:21] PHP Parse error:  syntax error, unexpected $end in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 127
+[13-Feb-2012 09:58:37] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 10:07:35] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 10:08:37] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 10:15:00] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 10:24:11] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 10:24:49] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 10:26:23] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 10:27:31] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 10:28:40] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 10:29:52] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 10:30:05] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 43
+[13-Feb-2012 12:33:11] PHP Parse error:  syntax error, unexpected T_IF, expecting ')' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 12:33:20] PHP Parse error:  syntax error, unexpected T_IF, expecting ')' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 12:33:55] PHP Parse error:  syntax error, unexpected T_ENDIF in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 12:34:00] PHP Parse error:  syntax error, unexpected T_ENDIF in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 12:34:06] PHP Parse error:  syntax error, unexpected T_ENDIF in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 12:34:43] PHP Fatal error:  Cannot break/continue 1 level in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 12:34:57] PHP Fatal error:  Cannot break/continue 1 level in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 12:37:58] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 12:39:39] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 12:39:47] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 56
+[13-Feb-2012 12:51:02] PHP Warning:  scandir(../wp-content/gallery/b/thumbs/*.*) [<a href='function.scandir'>function.scandir</a>]: failed to open dir: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 65
+[13-Feb-2012 12:51:02] PHP Warning:  scandir() [<a href='function.scandir'>function.scandir</a>]: (errno 2): No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 65
+[13-Feb-2012 12:53:13] PHP Warning:  opendir(../wp-content/gallery/b/thumbs/*.*) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 65
+[13-Feb-2012 12:56:07] PHP Fatal error:  Call to undefined function  glob_onlydir() in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 65
+[13-Feb-2012 12:59:00] PHP Fatal error:  Call to undefined function  glob_onlydir() in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 65
+[13-Feb-2012 12:59:08] PHP Fatal error:  Call to undefined function  glob_onlydir() in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 50
+[13-Feb-2012 13:02:20] PHP Parse error:  syntax error, unexpected T_IF in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 67
+[13-Feb-2012 13:15:07] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 76
+[13-Feb-2012 13:17:01] PHP Parse error:  syntax error, unexpected T_ENDIF in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 57
+[13-Feb-2012 13:17:08] PHP Parse error:  syntax error, unexpected T_ENDIF in /home2/alphatog/public_html/engine/imagecreate/selection3.php on line 57
+[13-Feb-2012 21:49:11] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 236
+[13-Feb-2012 21:50:59] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 236
+[21-Feb-2012 01:46:06] PHP Warning:  Invalid argument supplied for foreach() in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 252
+[21-Feb-2012 02:25:13] PHP Warning:  Invalid argument supplied for foreach() in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[21-Feb-2012 02:26:19] PHP Warning:  Invalid argument supplied for foreach() in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[21-Feb-2012 02:27:42] PHP Warning:  Invalid argument supplied for foreach() in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[21-Feb-2012 02:29:08] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 250
+[21-Feb-2012 02:29:33] PHP Warning:  Invalid argument supplied for foreach() in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 250
+[21-Feb-2012 02:30:21] PHP Warning:  Invalid argument supplied for foreach() in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 250
+[23-Feb-2012 20:47:32] PHP Fatal error:  Call to undefined method wlString::find() in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[23-Feb-2012 21:05:10] PHP Fatal error:  Call to a member function find() on a non-object in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[23-Feb-2012 21:05:15] PHP Fatal error:  Call to a member function find() on a non-object in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[23-Feb-2012 21:14:57] PHP Fatal error:  Call to a member function find() on a non-object in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[23-Feb-2012 21:31:54] PHP Parse error:  syntax error, unexpected ')' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[23-Feb-2012 21:32:13] PHP Parse error:  syntax error, unexpected ')' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[23-Feb-2012 21:39:08] PHP Parse error:  syntax error, unexpected ')' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[23-Feb-2012 21:49:57] PHP Parse error:  syntax error, unexpected ')' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[23-Feb-2012 21:57:55] PHP Parse error:  syntax error, unexpected ')' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[23-Feb-2012 21:58:00] PHP Parse error:  syntax error, unexpected ')' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 254
+[23-Feb-2012 23:21:21] PHP Fatal error:  Function name must be a string in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 253
+[23-Feb-2012 23:21:29] PHP Fatal error:  Function name must be a string in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 253
+[23-Feb-2012 23:22:24] PHP Fatal error:  Function name must be a string in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 253
+[23-Feb-2012 23:22:47] PHP Fatal error:  Function name must be a string in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 253
+[23-Feb-2012 23:23:15] PHP Fatal error:  Function name must be a string in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 253
+[23-Feb-2012 23:23:31] PHP Fatal error:  Function name must be a string in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 253
+[23-Feb-2012 23:42:08] PHP Fatal error:  Call to undefined function  file_get_html() in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 257
+[23-Feb-2012 23:42:40] PHP Fatal error:  Call to undefined function  file_get_html() in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 257
+[23-Feb-2012 23:47:39] PHP Parse error:  syntax error, unexpected ';' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 258
+[24-Feb-2012 06:12:01] PHP Parse error:  syntax error, unexpected ';' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 258
+[24-Feb-2012 06:12:14] PHP Parse error:  syntax error, unexpected ';' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 258
+[24-Feb-2012 06:12:20] PHP Parse error:  syntax error, unexpected ';' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 258
+[24-Feb-2012 06:12:26] PHP Parse error:  syntax error, unexpected ';' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 258
+[24-Feb-2012 06:24:18] PHP Parse error:  syntax error, unexpected ')' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 258
+[24-Feb-2012 06:24:26] PHP Parse error:  syntax error, unexpected ')' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 258
+[27-Feb-2012 13:50:09] PHP Warning:  Invalid argument supplied for foreach() in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 256
+[27-Feb-2012 14:14:45] PHP Fatal error:  Cannot use [] for reading in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 259
+[27-Feb-2012 14:21:55] PHP Fatal error:  Function name must be a string in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 259
+[27-Feb-2012 14:36:27] PHP Fatal error:  Function name must be a string in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 32
+[27-Feb-2012 19:36:42] PHP Parse error:  syntax error, unexpected ';' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 259
+[27-Feb-2012 22:00:48] PHP Fatal error:  Can't use method return value in write context in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 255
+[27-Feb-2012 22:02:14] PHP Fatal error:  Can't use method return value in write context in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 255
+[27-Feb-2012 22:02:30] PHP Fatal error:  Call to a member function char() on a non-object in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 263
+[27-Feb-2012 22:02:49] PHP Fatal error:  Call to a member function char() on a non-object in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 263
+[27-Feb-2012 22:03:01] PHP Fatal error:  Call to a member function char() on a non-object in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 263
+[27-Feb-2012 23:54:42] PHP Fatal error:  Cannot use [] for reading in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 256
+[27-Feb-2012 23:55:19] PHP Fatal error:  Cannot use [] for reading in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 256
+[28-Feb-2012 00:20:26] PHP Fatal error:  Call to a member function char() on a non-object in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 6
+[28-Feb-2012 00:21:54] PHP Fatal error:  Call to a member function char() on a non-object in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 6
+[28-Feb-2012 00:22:23] PHP Parse error:  syntax error, unexpected '{' in /home2/alphatog/public_html/engine/imagecreate/char0_3.php on line 258
+[29-Feb-2012 19:49:34] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/char5.php on line 233
+[29-Feb-2012 19:49:56] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/alphatog/public_html/engine/imagecreate/char5.php on line 233
